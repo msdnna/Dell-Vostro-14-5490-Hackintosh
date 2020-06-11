@@ -54,6 +54,10 @@ Bootloader | OpenCore 0.5.9
 ## Changelog
 <details>
 <summary>Read Changelog...</summary>
+  <h4> 06/11/20 </h4>
+  <ul>
+    <li>Changed AAPL,ig-platform-id and device-id to 0x3EA50000 to fix kernel panic at 10.15.5.</li>
+  </ul>
   <h4> 06/09/20 </h4>
   <ul>
     <li>First release. Repository created.</li>
