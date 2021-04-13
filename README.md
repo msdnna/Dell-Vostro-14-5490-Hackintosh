@@ -34,9 +34,9 @@ Bootloader | OpenCore 0.5.9
 - [x] USB Cardreader
 - [x] ACPI Battery
 - [x] NVRAM
-
+- [x] Wi-Fi (Using Heliport client)
+- [x] USB Tethering ( Horndis )
 - [ ] Internal / External Mic and Camera (Camera works after mapping USB, but it stops working Bluetooth)
-- [ ] Wi-Fi (Using external USB module)
 - [ ] DisplayPort over Type-C / Type-C (Did not check)
 - [ ] MX250 dGPU (Not supported)
 
